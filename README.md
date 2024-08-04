@@ -6,7 +6,7 @@
 - 🔒 Cybersecurity  
 - 🚩 CTF Player 
 - ⚔ Offensive Security Enjoyer
-- 🤖 AI Driver
+- 🤖 AI Advocate
 
 
 ---
