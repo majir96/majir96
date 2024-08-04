@@ -3,10 +3,11 @@
 ---
 
 ## About Me
-- 🔒 Cybersecurity  
-- 🚩 CTF Player 
-- ⚔ Offensive Security Enjoyer
-- 🤖 AI Advocate
+| 🔒  | Cybersecurity              |
+| --- | -------------------------- |
+| 🚩  | CTF Player                 |
+| ⚔  | Offensive Security Enjoyer  |
+| 🤖  | AI Advocate                |
 
 
 ---
