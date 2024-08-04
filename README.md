@@ -6,10 +6,8 @@
 - 🔒 Cybersecurity  
 - 🚩 CTF Player 
 - ⚔ Offensive Security Enjoyer
+- 🤖 AI Driver
 
----
-
-![Majir96's GitHub stats](https://github-readme-stats.vercel.app/api?username=majir96&show_icons=true&theme=radical)
 
 ---
 
