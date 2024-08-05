@@ -24,6 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvoid4m0n.github.io%2FeJPT%2F&psig=AOvVaw3nwwFBT0MJ3YsA03o9UX15&ust=1722954572448000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDKuYuI3ocDFQAAAAAdAAAAABAI" title="EJPT" alt="ejpt" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
