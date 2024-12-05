@@ -8,7 +8,7 @@
 - 🚩&nbsp;&nbsp;&nbsp;CTF Player 
 - ⚔&nbsp;&nbsp;&nbsp;Offensive Security Enjoyer
 - 🤖&nbsp;&nbsp;&nbsp;AI Advocate
-- 💾&nbsp;&nbsp;&nbsp;eJPTv2
+- 💾&nbsp;&nbsp;&nbsp; eCPPTv3,eJPTv2
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrogb-9&label=Profile%20views&color=0e75b6&style=flat" alt="majir96" /> </p>
